@@ -1,3 +1,5 @@
+## I Forked this to see if I could make changes that would benefit my own use cases (Dynamic application development and Automated Routines for Personal Projects (Non Commercial))
+
 English | [中文](README_zh.md)
 
 [![GitHub stars](https://img.shields.io/github/stars/mannaandpoem/OpenManus?style=social)](https://github.com/mannaandpoem/OpenManus/stargazers)
