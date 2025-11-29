@@ -193,3 +193,7 @@ OpenManus is built by contributors from MetaGPT. Huge thanks to this agent commu
   url = {https://doi.org/10.5281/zenodo.15186407},
 }
 ```
+
+I fix the bugs other devs gaslight you about.
+A I tools, Five M systems, automation pipelines.
+Build it, break it, resurrect it: 👉 https://AJThe.Dev
